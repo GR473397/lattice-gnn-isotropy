@@ -1,0 +1,7 @@
+## Data
+
+The original CSV data files are too large to include in the repository.  
+Please download them from the following link and place them in the `data/` directory:
+
+- [cm-features.csv](https://https://data.4tu.nl/datasets/03961539-129b-43b6-9c55-cfd3f5d40a8d/1?utm_source=chatgpt.com)
+- [cm-mechanical property.csv](https://https://data.4tu.nl/datasets/03961539-129b-43b6-9c55-cfd3f5d40a8d/1?utm_source=chatgpt.com)
